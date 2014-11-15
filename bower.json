@@ -1,0 +1,27 @@
+{
+  "name": "boilplate",
+  "version": "0.0.1",
+  "authors": [
+    "λhmad λjmi <ahmad@ahmadajmi.com>"
+  ],
+  "description": "Simple HTML/CSS boilplate",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "HTML",
+    "CSS",
+    "SASS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ajmi-grid": "*"
+  }
+}
